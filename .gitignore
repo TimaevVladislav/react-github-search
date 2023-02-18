@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 .idea
+.gitignore
 /.pnp
 .pnp.js
 
